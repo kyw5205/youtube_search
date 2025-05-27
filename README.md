@@ -26,7 +26,10 @@ This is a web application that allows users to search for YouTube videos using t
 3. Open the ngrok public URL
 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/69caba57-19c6-4a58-ae27-0df91a206b02)
+![유튜브검색1](https://github.com/user-attachments/assets/93c0a696-100b-442f-8480-835bb74a2146)
+
+![유튜브검색2](https://github.com/user-attachments/assets/d34fc90c-92a7-42e8-9928-2ad2ce965fca)
+
 
 
 ---
